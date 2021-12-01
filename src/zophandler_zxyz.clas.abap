@@ -1,0 +1,17 @@
+CLASS zophandler_zxyz DEFINITION INHERITING FROM ZOPHANDLER
+  PUBLIC
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  METHODS: process_output REDEFINITION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zophandler_zxyz IMPLEMENTATION.
+METHOD process_output.
+    WRITE: / 'Processing ZXYZ'.
+  ENDMETHOD.                    "process_output
+ENDCLASS.
