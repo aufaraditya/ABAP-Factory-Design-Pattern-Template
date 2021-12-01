@@ -9,6 +9,8 @@ The Factory Method defines an interface for creating objects, but lets subclasse
 ![Example Illustration](https://sourcemaking.com/files/v2/content/patterns/Factory_Method_example1.png?id=d0c67568bc4fde15d494)
 
 
+Source: https://sourcemaking.com/design_patterns/factory_method
+
 
 
 
